@@ -1,91 +1,81 @@
-## Matheus Henrique
+<h1 align="center">Olá 👋 Eu sou Matheus Henrique</h1>
 
-# 👋 Olá, eu sou Matheus Henrique
-
-🎓 Estudante de Desenvolvimento de software Multiplataforma 
-💻 Desenvolvedor Front-End em evolução
-📊 Interessado em Banco de Dados, Tecnologia e Desenvolvimento de Sistemas  
-🚀 Desenvolvendo projetos práticos para evoluir em programação, dados e aplicações inteligentes
-
+<h3 align="center">
+🎓 Estudante de ADS • 📊 Focado em Banco de Dados • 💻 Desenvolvedor em evolução
+</h3>
 
 ---
 
-# 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia, design de interfaces e desenvolvimento de sistemas com foco em experiência do usuário.
-
-# 📚 Atualmente estudando
+💡 Atualmente desenvolvendo projetos práticos para evoluir em:
 
 - Banco de Dados
-- SQL
-- Modelagem de Dados
-- Firebase
+- Desenvolvimento Web
 - Android Studio
+- Firebase
 - Git & GitHub
-- Front-End
-- Estruturação de sistemas
+- Estruturação de Sistemas
 
-Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor júnior e evoluir constantemente através da prática e construção de projetos reais.
+📚 Buscando minha primeira oportunidade na área de tecnologia.
 
 ---
 
-# 🚀 Projeto em destaque
+## 🛠 Tecnologias e Ferramentas
 
-## 🥩 CarneCerta
+<div align="center">
 
-Sistema inteligente para recomendação de cortes bovinos baseado no tipo de preparo, custo-benefício e preferências do usuário.
+<img src="https://skillicons.dev/icons?i=html,css,js,java,firebase,mysql,git,github,vscode,figma" />
 
-### 🔥 Funcionalidades atuais
+</div>
 
+---
+
+## 📌 Projeto em destaque
+
+### 🥩 CarneCerta
+
+Sistema inteligente para recomendação de cortes bovinos com foco em experiência do usuário, organização de dados e navegação intuitiva.
+
+✨ Funcionalidades atuais:
 - Home moderna em Dark Mode
 - Navegação entre telas
 - Mapa interativo do boi
 - Páginas individuais dos cortes
 - Estrutura organizada de Front-End
-- Layout responsivo inicial
-- Sistema em evolução contínua
-
-### 🛠 Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- Figma
-- Firebase (em desenvolvimento)
-- Android Studio (versão mobile em planejamento)
 
 ---
 
-# 📚 Atualmente estudando
+## 📊 Estatísticas GitHub
 
-- JavaScript
-- UX/UI Design
-- Android Studio
-- Firebase
-- GitHub profissional
-- Responsividade
-- Arquitetura de projetos
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📈 Objetivos
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Construir um portfólio sólido
-- Desenvolver aplicações completas
-- Aprimorar habilidades em Front-End e Ciencia de Dados 
-- Conseguir minha primeira vaga na área de tecnologia
-- Criar projetos com impacto real
+</div>
 
 ---
 
-# 📫 Contato
+## 🌎 Contato
 
-📧 matheushenrry00@gmail.com  
-💼 LinkedIn: 
-📍 Brasil
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
+<div align="center">
 
-> “Transformando ideias em projetos reais através da prática diária.”
+✨ Em constante evolução através da prática e construção de projetos reais.
+
+</div>
