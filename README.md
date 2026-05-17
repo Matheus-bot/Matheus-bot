@@ -5,6 +5,9 @@
 </h3>
 
 
+![GitHub Profile Card](https://raw.githubusercontent.com/Matheus-bot/github-profile-stats-card/main/public/card.svg?v=25992146027)
+
+
 ## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
