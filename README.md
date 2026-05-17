@@ -3,22 +3,6 @@
 <h3 align="center">
 🎓 Estudante de ADS • 📊 Focado em Banco de Dados • 💻 Desenvolvedor em evolução
 </h3>
-
----
-
-## 🚀 Sobre mim
-
-💡 Atualmente desenvolvendo projetos práticos para evoluir em:
-
-- Banco de Dados
-- Desenvolvimento Web
-- Android Studio
-- Firebase
-- Git & GitHub
-- Estruturação de Sistemas
-
-📚 Buscando minha primeira oportunidade na área de tecnologia.
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
