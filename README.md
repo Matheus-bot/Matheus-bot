@@ -1,57 +1,72 @@
 <h1 align="center">Matheus Henrique</h1>
 
-<h3 align="center">
-🎓 Estudante de ADS • 📊 Focado em Banco de Dados • 💻 Desenvolvedor em evolução
-</h3>
+<p align="center">
+  Back-End • Banco de Dados • Java
+</p>
 
-
-![GitHub Profile Card](https://raw.githubusercontent.com/Matheus-bot/github-profile-stats-card/main/public/card.svg?v=25992146027)
-
-
-## 🛠 Tecnologias e Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,firebase,mysql,git,github,vscode,figma" />
-
-</div>
-
-## 📌 Projeto em destaque
-
-### 🥩 CarneCerta
-
-Sistema inteligente para recomendação de cortes bovinos com foco em experiência do usuário, organização de dados e navegação intuitiva.
-
-✨ Funcionalidades atuais:
-- Home moderna em Dark Mode
-- Navegação entre telas
-- Mapa interativo do boi
-- Páginas individuais dos cortes
-- Estrutura organizada de Front-End
+<p align="center">
+  <a href="https://github.com/Matheus-bot">
+    <img src="https://img.shields.io/github/followers/Matheus-bot?label=Followers&style=flat&color=0e75b6" />
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=Matheus-bot&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📊 Estatísticas GitHub
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&theme=tokyonight&hide_border=true"/>
+![GitHub Profile Card](https://raw.githubusercontent.com/Matheus-bot/github-profile-stats-card/main/public/card.svg?v=25992146027)
 
 </div>
 
+---
 
-## 🌎 Contato
+## ⚡ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,firebase,html,css,js,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 🚀 Projeto em destaque
+
+### CarneCerta
+
+Sistema inteligente para recomendação de cortes bovinos com foco em experiência do usuário e organização de dados.
+
+- Dark Mode
+- Navegação dinâmica
+- Mapa interativo do boi
+- Estrutura Front-End organizada
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Matheus-bot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:matheushenrry00@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -60,6 +75,6 @@ Sistema inteligente para recomendação de cortes bovinos com foco em experiênc
 
 <div align="center">
 
-✨ Em constante evolução através da prática e construção de projetos reais.
+<i>Construindo projetos reais e evoluindo todos os dias.</i>
 
 </div>
