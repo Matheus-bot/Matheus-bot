@@ -16,7 +16,11 @@
 
 <div align="center">
 
-![GitHub Profile Card](https://raw.githubusercontent.com/Matheus-bot/github-profile-stats-card/main/public/card.svg?v=25992146027)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Matheus-bot&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Matheus-bot&theme=tokyonight&hide_border=true"/>
 
 </div>
 
