@@ -49,7 +49,7 @@ Smart beef cut recommendation system focused on user experience and data organiz
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-henrique-145380323/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
