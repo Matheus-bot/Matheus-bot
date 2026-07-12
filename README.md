@@ -1,4 +1,4 @@
-<h1 align="center">Matheus Henrique</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Matheus%20Henrique&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
   Multiplatform Software Development Student • Back-End • Databases
@@ -8,7 +8,16 @@
   <i>Building real projects through code and creativity.</i>
 </p>
 
----
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/matheus-bot">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheus-bot&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=matheus-bot)
+<br/>
+
 
 <div align="center">
 
@@ -63,7 +72,14 @@ Smart beef cut recommendation system focused on user experience and data organiz
 
 </div>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
 
 <p align="center">
   <i>Open to learning, building and evolving through real projects.</i>
