@@ -11,7 +11,7 @@ Turning real-world problems into intelligent digital solutions.
 
 <p align="center">
 
-<a href="linkedin.com/in/matheus-henrique-145380323">
+<a href="https://www.linkedin.com/in/matheus-henrique-145380323/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
