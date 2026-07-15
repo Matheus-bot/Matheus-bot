@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Data Analyst • Full Stack Developer
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Data Analytics • Full Stack Developer
 </h2>
 
 <p align="center">
