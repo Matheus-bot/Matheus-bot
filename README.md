@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Matheus%20Henrique&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Data Analytics • Full Stack Developer
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px">
+Data Analytics • Software Development
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@ Turning real-world problems into intelligent digital solutions.
 
 <p align="center">
 
-<a href="www.linkedin.com/in/matheus-henrique-01dev">
+<a href="https://www.linkedin.com/in/devbymatheus/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -27,9 +27,9 @@ Turning real-world problems into intelligent digital solutions.
 
 ---
 
-# 👋 About Me 
+# 👋 About Me
 
-I'm a  Multiplataform Software Development student from Brazil passionate about **Data Analytics, Software Engineering and Artificial Intelligence**.
+I'm a **Multiplatform Software Development** student from Brazil passionate about **Data Analytics, Software Engineering and Artificial Intelligence**.
 
 I enjoy transforming real-world problems into digital products through **Data, Web, Mobile and IoT** technologies.
 
@@ -49,9 +49,15 @@ An ecosystem of intelligent solutions designed to improve the customer experienc
 
 ---
 
-#  Featured Projects
+# 🚀 Featured Projects
 
-## 🥩 CarneCerta Web
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🥩 CarneCerta Web
 
 Smart platform that recommends the ideal beef cut according to the user's needs.
 
@@ -61,13 +67,15 @@ Smart platform that recommends the ideal beef cut according to the user's needs.
 
 ✔ User Experience
 
----
+</td>
 
-## 📊 CarneCerta Insights
+<td width="50%" valign="top">
+
+### 📊 CarneCerta Insights
 
 Business Intelligence dashboard developed to transform data into strategic information.
 
-✔ SQL
+✔ SQL Server
 
 ✔ Power BI
 
@@ -77,32 +85,83 @@ Business Intelligence dashboard developed to transform data into strategic infor
 
 ✔ Dashboards
 
----
+</td>
 
-## 📱 CarneCerta Mobile
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 CarneCerta Mobile
 
 Android application developed with Java.
 
-Features include:
+✔ Firebase Authentication
 
-- Firebase Authentication
-- Google Login
-- Room Database
-- QR Code
+✔ Google Login
 
----
+✔ Room Database
 
-## 🌡 CarneCerta IoT
+✔ QR Code
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌡 CarneCerta IoT
 
 Temperature monitoring solution for cold rooms.
 
-Technologies:
+✔ ESP32
 
-- ESP32
-- Sensors
-- Dashboard
-- Alerts
-- Real-time Monitoring
+✔ Sensors
+
+✔ Dashboard
+
+✔ Alerts
+
+✔ Real-time Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏗 CarneCerta Architecture & Governance
+
+Software architecture documentation following industry best practices.
+
+✔ Architecture
+
+✔ Documentation
+
+✔ Governance
+
+✔ Standards
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 CarneCerta PDF Store
+
+Digital repository designed to organize technical documents, manuals and project files.
+
+✔ Documentation
+
+✔ Knowledge Base
+
+✔ Organization
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -132,13 +191,35 @@ Technologies:
 
 </p>
 
+### AI Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flow-7C3AED?style=for-the-badge"/>
+
+</p>
+
 ---
 
 # 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-bot&show_icons=true&theme=dracula&hide_border=true"/>
 
 </p>
 
@@ -150,17 +231,13 @@ Technologies:
 
 ---
 
-# Currently Learning
+#  Current Focus
 
-📊 SQL Server
-
-📈 Power BI
-
-🐍 Python
-
-☁ Cloud Computing
-
-🤖 Artificial Intelligence
+- 📊 SQL Server
+- 📈 Power BI
+- 🐍 Python
+- ☁ Cloud Computing
+- 🤖 Artificial Intelligence
 
 ---
 
@@ -168,11 +245,11 @@ Technologies:
 
 <p align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/devbymatheus/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:matheushenrry00@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -192,12 +269,12 @@ Technologies:
 
 ---
 
-<p align="center">
-
 <i>
-Always learning.<br>
-Always building.<br>
-Always improving.
+<p align="center">
+Building solutions.<br>
+Analyzing data.<br>
+Creating impact.
+
 </i>
 
 </p>
