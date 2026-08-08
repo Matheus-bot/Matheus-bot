@@ -211,13 +211,15 @@ Digital repository designed to organize technical documents, manuals and project
 
 ---
 
+
 # 📈 GitHub Statistics
 
-<p align="left">
-<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
-<img align="right" src="https://streak-stats.demolab.com?user=Matheus-bot&theme=tokyonight&hide_border=true"/>
-</p> 
+<p align="center">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Matheus-bot&theme=tokyonight&hide_border=true"/>
+</p> 
 
 ---
 
