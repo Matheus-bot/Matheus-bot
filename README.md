@@ -29,9 +29,7 @@ Turning real-world problems into intelligent digital solutions.
 
 # 👋 About Me
 
-I'm a **Multiplatform Software Development** student from Brazil passionate about **Data Analytics, Software Engineering and Artificial Intelligence**.
-
-I enjoy transforming real-world problems into digital products through **Data, Web, Mobile and IoT** technologies.
+I'm a **Multiplatform Software Development** student from Brazil passionate about **Data Analytics, Software Engineering and Artificial Intelligence**. I enjoy transforming real-world problems into digital products through **Data, Web, Mobile and IoT** technologies.
 
 Currently, I'm building my main project:
 
@@ -49,7 +47,7 @@ An ecosystem of intelligent solutions designed to improve the customer experienc
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 
@@ -215,19 +213,11 @@ Digital repository designed to organize technical documents, manuals and project
 
 # 📈 GitHub Statistics
 
-<p align="center">
+<p align="left">
+<img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
+<img align="right" src="https://streak-stats.demolab.com?user=Matheus-bot&theme=tokyonight&hide_border=true"/>
+</p> 
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Matheus-bot&layout=compact&langs_count=8&theme=dracula"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-bot&show_icons=true&theme=dracula&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Matheus-bot&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
